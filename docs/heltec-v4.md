@@ -11,10 +11,16 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 3. [Specifications](#specifications)
 
 ## Features
-- 
+- Integrated Display
+- Integrated WiFi/Bluetooth Modules
+- Optional Battery
+- Integrated Solar Input
+- Optional Enclosure
+- Integrated GPS Port
 
 ## How-To-Use
 
 
 ## Specifications
-
+- MCU: ESP32
+- Radio: SX1262

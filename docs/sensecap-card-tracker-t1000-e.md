@@ -11,10 +11,15 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 3. [Specifications](#specifications)
 
 ## Features
-- 
+- IP65 Water-Resistant Enclosure
+- Integrated Bluetooth Module
+- Integrated GPS Module
+- Integrated Battery (700mAh)
+- Integrated Sensor Modules (Temperature, Light Levels, etc.)
 
 ## How-To-Use
 
 
 ## Specifications
-
+- MCU: nRF52840
+- Radio: SX1262

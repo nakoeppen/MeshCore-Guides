@@ -1,4 +1,4 @@
-# MeshCore Device Guides - RAK WisMesh Tag <font color="red">(UNDER CONSTRUCTION)</font>
+# MeshCore Device Guides - RAK WisMesh Tag
 MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 
 [Go Back to Home](../README.md)  
@@ -11,7 +11,10 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 3. [Specifications](#specifications)
 
 ## Features
-- 
+- IP66 Water-Resistant Enclosure
+- Integrated Bluetooth Module
+- Integrated GPS Module
+- Integrated Battery (1000mAh)
 
 ## How-To-Use
 - To Turn on the Device, press the User Button on the front
@@ -22,3 +25,5 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 - ADVANCED: If you need to enter CLI Recovery Mode (used to attempt repairs over CLI on a host computer), hold down the User Button within 8 seconds of turning it on
 
 ## Specifications
+- MCU: nRF52840
+- Radio: SX1262

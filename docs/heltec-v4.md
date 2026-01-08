@@ -18,13 +18,16 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 - Optional Enclosure
 - Integrated GPS Port
 - Integrated Radio Amp
+- Dedicated PROG and RESET buttons
 
 ## How-To-Use
 
 
 ## Specifications
-- MCU: ESP32
+- MCU: ESP32-S3R2
 - Radio: SX1262
+- Interfaces: USB Type C
+- Memory: 16MB Flash / 2MB PSRAM
 
 ## General Notes
 - Due to the integrated radio amp, TX power should be set to 22 to achieve the maximum power supported by the board

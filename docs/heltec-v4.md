@@ -11,12 +11,13 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 3. [Specifications](#specifications)
 
 ## Features
-- Integrated Display
+- Integrated Optional Display
 - Integrated WiFi/Bluetooth Modules
 - Optional Battery
 - Integrated Solar Input
 - Optional Enclosure
 - Integrated GPS Port
+- Integrated Radio Amp
 
 ## How-To-Use
 
@@ -26,3 +27,5 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 - Radio: SX1262
 
 ## General Notes
+- Due to the integrated radio amp, TX power should be set to 22 to achieve the maximum power supported by the board
+- To boot in PROG mode without use the button, put GPIO0 to ground

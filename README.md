@@ -11,8 +11,8 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 ## High-Level Comparison
 |                | MCU      | Radio    | Display                 | Enclosure               | Solar Support           | Battery                 | WiFi                    | Bluetooth               | GPS                     |
 | -------------- | -------- | -------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-|Heltec v3       |ESP32     |SX1262    |:white_check_mark:       |Optional                 |:white_check_mark:       |Optional                 |:white_check_mark:       |:white_check_mark:       |Has Support              |
-|Heltec v4       |ESP32     |SX1262    |:white_check_mark:       |Optional                 |:white_check_mark:       |Optional                 |:white_check_mark:       |:white_check_mark:       |Has Support              |
+|Heltec v3       |ESP32     |SX1262    |Optional                 |Optional                 |:white_check_mark:       |Optional                 |:white_check_mark:       |:white_check_mark:       |Has Support              |
+|Heltec v4       |ESP32     |SX1262    |Optional                 |Optional                 |:white_check_mark:       |Optional                 |:white_check_mark:       |:white_check_mark:       |Has Support              |
 |RAK WisBlock    |nRF52840  |SX1262    |:x:                      |:x:                      |:white_check_mark:       |Optional                 |:white_check_mark:       |:white_check_mark:       |Has Support              |
 |RAK WisMesh Tag |nRF52840  |SX1262    |:x:                      |:white_check_mark:IP66   |:x:                      |:white_check_mark:1000mAh|:x:                      |:white_check_mark:       |:white_check_mark:       |
 |SenseCap T1000-E|nRF52840  |SX1262    |:x:                      |:white_check_mark:IP65   |:x:                      |:white_check_mark:700mAh |:white_check_mark:       |:white_check_mark:       |:white_check_mark:       |

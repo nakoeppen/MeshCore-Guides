@@ -9,10 +9,10 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 [SenseCAP Card Tracker T1000-E](docs/sensecap-card-tracker-t1000-e.md)
 
 ## High-Level Comparison
-|                | MCU      | Radio    | Display                 | Enclosure               | Solar Support           | Battery                 | WiFi                    | Bluetooth               | GPS                     |
-| -------------- | -------- | -------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-|Heltec v3       |ESP32     |SX1262    |:white_check_mark:       |Optional                 |:white_check_mark:       |Optional                 |:white_check_mark:       |:white_check_mark:       |Has Support              |
-|Heltec v4       |ESP32     |SX1262    |:white_check_mark:       |Optional                 |:white_check_mark:       |Optional                 |:white_check_mark:       |:white_check_mark:       |Has Support              |
-|RAK WisBlock    |nRF52840  |SX1262    |:x:                      |:x:                      |:white_check_mark:       |Optional                 |:white_check_mark:       |:white_check_mark:       |Has Support              |
-|RAK WisMesh Tag |nRF52840  |SX1262    |:x:                      |:white_check_mark:IP66   |:x:                      |:white_check_mark:1000mAh|:x:                      |:white_check_mark:       |:white_check_mark:       |
-|SenseCap T1000-E|nRF52840  |SX1262    |:x:                      |:white_check_mark:IP65   |:x:                      |:white_check_mark:700mAh |:white_check_mark:       |:white_check_mark:       |:white_check_mark:       |
+| Device | MCU | Radio | Display | Enclosure | Solar Support | Battery | WiFi | Bluetooth | GPS Support |
+| ------ | --- | ----- | ------- | --------- | ------------- | ------- | ---- | --------- | ----------- |
+| Heltec v3 | ESP32 | SX1262 | ✅ | Optional | ❌ | Optional | ✅ | ✅ | Yes (external, soldering) |
+| Heltec v4 | ESP32-S3 | SX1262 | Optional | Optional | ✅ | Optional | ✅ | ✅ | Yes (integrated port) |
+| RAK WisBlock | nRF52840 | SX1262 | ❌ | ❌ | ✅ | Optional | ❌ | ✅ | Yes |
+| RAK WisMesh Tag | nRF52840 | SX1262 | ❌ | ✅ IP66 | ❌ | ✅ 1000mAh | ❌ | ✅ | Yes |
+| SenseCap T1000-E | nRF52840 | SX1262 | ❌ | ✅ IP65 | ❌ | ✅ 700mAh | ❌ | ✅ | Yes |

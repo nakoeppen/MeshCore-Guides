@@ -4,6 +4,7 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 ### Table of Contents  
 [Heltec v3](docs/heltec-v3.md)  
 [Heltec v4](docs/heltec-v4.md)  
+[Heltec T114](docs/heltec-t114.md)  
 [RAK WisBlock](docs/rak-wisblock.md)  
 [RAK WisMesh Tag](docs/rak-wismesh-tag.md)  
 [SenseCAP Card Tracker T1000-E](docs/sensecap-card-tracker-t1000-e.md)

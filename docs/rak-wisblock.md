@@ -1,4 +1,4 @@
-# MeshCore Device Guides - RAK 19003/19007 <font color="red">(UNDER CONSTRUCTION)</font>
+# MeshCore Device Guides - RAK WisBlock (Mini) <font color="red">(UNDER CONSTRUCTION)</font>
 MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 
 [Go Back to Home](../README.md)  
@@ -11,7 +11,7 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 3. [Specifications](#specifications)
 
 ## Features
-- Integrated WiFi/Bluetooth Modules
+- Integrated Bluetooth Module
 - Optional Battery
 - Integrated Solar Input
 

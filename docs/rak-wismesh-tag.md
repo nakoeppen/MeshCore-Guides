@@ -22,7 +22,8 @@ MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 - Once on, press the User Button three times to toggle the buzzer
 - Once on, press the User Button four times to toggle the GPS
 - Once on, you can shut down the device by holding down the User Button
-- ADVANCED: If you need to enter CLI Recovery Mode (used to attempt repairs over CLI on a host computer), hold down the User Button within 8 seconds of turning it on
+- You can force a reboot by hitting the Reset button on the back of the device
+- ADVANCED: If you need to enter CLI Recovery Mode (used to attempt repairs over CLI on a host computer), hold down the User Button for the first 8 seconds after turning it on
 
 ## Specifications
 - MCU: nRF52840

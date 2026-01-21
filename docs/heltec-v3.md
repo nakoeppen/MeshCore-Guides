@@ -1,4 +1,4 @@
-# MeshCore Device Guides - Heltec v3 <font color="red">(UNDER CONSTRUCTION)</font>
+# MeshCore Device Guides - Heltec v3
 MeshCore device guides repository, with a "Keep It Simple, Stupid" flavor
 
 [Go Back to Home](../README.md)  
